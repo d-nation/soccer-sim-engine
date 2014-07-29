@@ -1,0 +1,144 @@
+{
+    "game": {
+        "half": 1,
+        "time": "0:00",
+        "stoppage": 0,
+        "score": {
+            "home": 0,
+            "away": 0
+        },
+        "possession": {
+            "current": 1,
+            "home": 0,
+            "away": 0,
+            "player": null
+        },
+        "pitch": {
+            "current": [5,4],
+            "status": 0
+        }
+
+    },
+    "homeTeam": {
+		"roster": {
+			"keepers": {
+				"starters": [
+					{
+						"name": "Player 1",
+						"speed": 54,
+						"passing": 60,
+						"aggressiveness": 50,
+						"playmaking": 80,
+						"shooting": 40,
+						"tackling": 60,
+						"keeping": 84
+					}
+				]
+			},
+			"defense": {
+				"starters": [
+					{
+						"name": "Player 2",
+						"speed": 76,
+						"passing": 75,
+						"aggressiveness": 80,
+						"playmaking": 81,
+						"shooting": 56,
+						"tackling": 84,
+						"keeping": 30
+					}
+				]
+			},
+			"midfield": {
+				"starters": [
+					{
+						"name": "Player 6",
+						"speed": 78,
+						"passing": 80,
+						"aggressiveness": 65,
+						"playmaking": 67,
+						"shooting": 75,
+						"tackling": 80,
+						"keeping": 28
+					}
+				]
+			},
+			"strikers": {
+				"starters": [
+					{
+						"name": "Player 10",
+						"speed": 88,
+						"passing": 79,
+						"aggressiveness": 81,
+						"playmaking": 84,
+						"shooting": 86,
+						"tackling": 60,
+						"keeping": 18
+					}
+				]
+			}
+		},
+		"form": 12
+	},
+	"awayTeam": {
+		"roster": {
+			"keepers": {
+				"starters": [
+					{
+						"name": "Player 1",
+						"speed": 54,
+						"passing": 60,
+						"aggressiveness": 50,
+						"playmaking": 80,
+						"shooting": 40,
+						"tackling": 60,
+						"keeping": 84
+					}
+				]
+			},
+			"defense": {
+				"starters": [
+					{
+						"name": "Player 2",
+						"speed": 76,
+						"passing": 75,
+						"aggressiveness": 80,
+						"playmaking": 81,
+						"shooting": 56,
+						"tackling": 84,
+						"keeping": 30
+					}
+				]
+			},
+			"midfield": {
+				"starters": [
+					{
+						"name": "Player 6",
+						"speed": 78,
+						"passing": 80,
+						"aggressiveness": 65,
+						"playmaking": 67,
+						"shooting": 75,
+						"tackling": 80,
+						"keeping": 28
+					}
+				]
+			},
+			"strikers": {
+				"starters": [
+					{
+						"name": "Player 10",
+						"speed": 88,
+						"passing": 79,
+						"aggressiveness": 81,
+						"playmaking": 84,
+						"shooting": 86,
+						"tackling": 60,
+						"keeping": 18
+					}
+				]
+			}
+		},
+		"form": 10
+	}
+}

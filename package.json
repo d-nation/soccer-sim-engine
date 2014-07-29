@@ -1,0 +1,13 @@
+{
+  "name": "SSAAS",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "grunt-cli": "^0.1.13"
+  },
+  "dependencies": {
+    "async": "^0.8.0",
+    "backbone": "^1.1.2",
+    "rabbit.js": "^0.4.1"
+  }
+}
